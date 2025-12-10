@@ -2,8 +2,7 @@
 
 <p align="center">
   <a href="https://vllm-kunlun.readthedocs.io/en/latest/"><b>Documentation</b></a> |
-  <a href=""><b>Users Forum</b></a> |
-  <a href="https://vllm-kunlun.slack.com/"><b>slack</b></a> |
+  <a href="https://join.slack.com/t/vllm-kunlun/shared_invite/zt-3iinb8u5z-FcqZKbNNdMJ_32fHmipzvw"><b>slack</b></a> |
 </p>
 
 ---
